@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/scholarships.jpg
 title: "Scholarship Assistance"
 date: 2023-01
 published: true
