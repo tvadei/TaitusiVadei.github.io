@@ -4,6 +4,7 @@ type: project
 image: img/11thPICL.png
 title: "11th PICL Standing Committe Meeting"
 date: 2021-12-01
+published: true
 labels:
   - Post Conference Evaluation
   - Legislative Review
