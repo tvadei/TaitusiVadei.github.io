@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scholarships.jpg
+image: img/scholarship.jpg
 title: "Scholarship Assistance"
 date: 2023-01
 published: true
