@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/11thPICL.png
+image: img/11thPICL.jpg
 title: "11th PICL Standing Committe Meeting"
 date: 2021-12-01
 published: true
