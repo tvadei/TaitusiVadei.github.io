@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/PIDP.jpg
-title: "PICL Standing Committe Meeting"
+title: "Pacific Island Conference of Leaders Standing Committe Meeting"
 date: 2021-12-01
 published: true
 labels:
