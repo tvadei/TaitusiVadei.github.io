@@ -12,20 +12,13 @@
     { "name": "Data Analytics" },
     { "name": "Virtual Learning Environments" }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java"]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08-23",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "Present"
       ]
     }
   ],
