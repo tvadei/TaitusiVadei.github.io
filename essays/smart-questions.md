@@ -10,73 +10,56 @@ labels:
   - Answers
   - StackOverflow
 ---
-## Ask the question, not the answer
+## Oh No, A Bug!
 
-Whether you are a beginner or an advanced learner of coding, you cannot always evade the plaguing of bugs in your code that causes a massive ordeal of revising your code, reading line by line, trialing and error guesses of where or what the bug could be until exhaustion. It is incredibly time consuming, drains your energy and sucks the hopes of building your coding project. I remember the nights when a bug in my code made me want to throw my head into the wall. 
+Whether you are a beginner or an advanced learner of coding, you cannot always evade the plaguing of bugs in your code that causes a massive ordeal of revising your code, reading line by line, trialing and error guesses of where or what the bug could be until exhaustion. It is incredibly time consuming, drains your energy and sucks the hopes of building your coding project.
 
 I recall for one particular bug concerning pointers that made me turn up to office hours emotionally charged and handed over my laptop to the professor and just asked him to find the bug. He kindly swiveled the laptop back to me and told me to describe what the problem is. In my frustration, I repeated back to him what the compiler error was showing and the professor restated that I, again, needed to describe what the problem was. 
 
 Coming down from the rage "high", I realized that I was not being helpful with how I was asking for help. I did not provide a context of what my code was and what was it about pointers that I was finding difficulties with. The audacity for me to hold the expectation that my professor would suddenly know what the bug is was foolish of me and very lazy. 
 
-## The right way of asking for help
+## The Right Way of Asking for Help
 
 Knowing how to frame your question to ask for help is a skill that helps mitigate further frustration already mounting from when the bug appeared. If you are inadequate in your approach like I did, then be prepared to have an inadequate reply. Learn how to articulate your problem in a clear and concise way so that people know how to structurally solve it. 
 
-Later that afternoon, my professor sent me a message on discord to a link to the Stack Overflow forum where it cleared things up for me greatly in terms of how pointers differ and showed how I should have asked my question. 
+Later that afternoon, my professor sent me a message on discord to a link to the Stack Overflow forum where it cleared things up for me greatly in terms of how pointers behave and illustrated how I should have asked my question. 
 
-Here's the question
-
-```
-Q: What is the difference between const int*, const int * const, and int const *?
-
-I always mess up how to use const int*, const int * const, and int const * correctly. Is there a set of rules defining what you can and cannot do?
-
-I want to know all the do's and all don'ts in terms of assignments, passing to the functions, etc.
-```
-//I WAS HERE LAST *****
-
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+Here's the [QUESTION](https://stackoverflow.com/questions/55928816/c-iterator-range-using-pointers-to-an-array)
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+Q: C++ Iterator range using pointers to an array
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+I do not want to pass the size of the array as an index parameter.
 
-Like this:
+For my merge_sort, I want to optimize my parameters using the iterator range concept. I can't seem to figure out how to deference the iterator range and access my array. I can deference to access the indices like low and high in recursive_merge_sort, but there does not seem to be an intuitive way to access the array itself. I've been using this great guide on C++ Pointers and Arrays as a starting point.
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+My Merge Sort C++11 C++17 question brought this concept to light and I like the idea of using iterator ranges to reduce the number of parameters for my sort.
+```
+In addition to the question, the person provided their code fragment with comments showing possible indications of where the error could be occurring. 
+
+Here the person clearly states what their objectives are and where they are finding problems. The objective is to optimize parameters using iterators and the problem is dereferencing the iterator. There is a mention that the person has consulted textbooks and references a previous related question posted to the same that has been of help in trying to tackle the problem, demonstrating initiative from the asker that they have made an effort. 
+
+The responses to the above questions explained the relationship between pointers, iterators and c++ arrays and provided code examples to display the usages of pointers like iterators like the begin/end iterators. Some responses cautioned the method of passing in an array by pointer and gave potential complications down the road from said method. 
+
+Observing how well the question was posed and how well structured and balanced the responses was, it is then advantageous for the asker as the bug in their code could become more obvious. 
+
+## The Huh Wat Way of Asking for Help.
+
+Hmmm, my embarassing story of my office hour situation should serve as a model of what not to ask. Yet, to solidify and contrast, let us look at this [QUESTION](https://stackoverflow.com/questions/31768272/what-is-the-point-of-using-references-and-pointers-in-c)
 
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Q: What is the point of using references and pointers in C++?
+I read this similar question but after a few weeks of studying C++ one thing I am curious about is: Why use pointers or references in C++?
 
-## The foolproof way to get ignored.
+Not even why use one over the other, but just why not use the original value?
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+By default things are passed by value in C++ wouldn't a lot of the confusion and accidental side effects would be removed if the original value were always passed?
 
+Is it simply so that a smaller value can be passed on the stack?
 ```
-Q: Facebook Desktop Notifier
+This question lacks to show a specific coding problem or challenge that the asker is facing. Hence there is no definitive answer nor a specific solution that can be afforded. While, it asks on the topic of pointers and references, it is too broad and that poses a problem because it leaves a lot for interpretation, gathering varied responses that leads the asker astray. Also, as the question is broad, it would be annoying for responders to have to write lengthy answers to cover all the possible angles of the question. These sentiments are also shared in the replies to the question.
 
-I am a beginner programmer that have never used anything other than what's included in a language.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+## Is there a perfect question?
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+There is no perfect question but there are ways you can perfect it. Okay, I was trying to be philosophical there but in practicality, as you embark on asking questions on a forum like stack overflow, take time to craft your question. Do not just spontaneously garble your question on there (like I did to my professor, although thankfully he was kind enough to have guided me. Imagine the responses I would have gotten had I posted!). With quality questions breeds quality solutions that preserves quality time! A final advice is to listen to feedback as these serve as stepping stones to better-ing questions next time!
