@@ -1,57 +1,40 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Ask and ye shall receive"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2023-09-08
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
+## Ask the question, not the answer
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+Whether you are a beginner or an advanced learner of coding, you cannot always evade the plaguing of bugs in your code that causes a massive ordeal of revising your code, reading line by line, trialing and error guesses of where or what the bug could be until exhaustion. It is incredibly time consuming, drains your energy and sucks the hopes of building your coding project. I remember the nights when a bug in my code made me want to throw my head into the wall. 
 
-## Is there such thing as a stupid question?
+I recall for one particular bug concerning pointers that made me turn up to office hours emotionally charged and handed over my laptop to the professor and just asked him to find the bug. He kindly swiveled the laptop back to me and told me to describe what the problem is. In my frustration, I repeated back to him what the compiler error was showing and the professor restated that I, again, needed to describe what the problem was. 
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Coming down from the rage "high", I realized that I was not being helpful with how I was asking for help. I did not provide a context of what my code was and what was it about pointers that I was finding difficulties with. The audacity for me to hold the expectation that my professor would suddenly know what the bug is was foolish of me and very lazy. 
 
-## What’s a smart question?
+## The right way of asking for help
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Knowing how to frame your question to ask for help is a skill that helps mitigate further frustration already mounting from when the bug appeared. If you are inadequate in your approach like I did, then be prepared to have an inadequate reply. Learn how to articulate your problem in a clear and concise way so that people know how to structurally solve it. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Later that afternoon, my professor sent me a message on discord to a link to the Stack Overflow forum where it cleared things up for me greatly in terms of how pointers differ and showed how I should have asked my question. 
+
+Here's the question
 
 ```
-Q: python date of the previous month
+Q: What is the difference between const int*, const int * const, and int const *?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+I always mess up how to use const int*, const int * const, and int const * correctly. Is there a set of rules defining what you can and cannot do?
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
+I want to know all the do's and all don'ts in terms of assignments, passing to the functions, etc.
 ```
+//I WAS HERE LAST *****
+
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
