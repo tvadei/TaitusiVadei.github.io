@@ -20,6 +20,10 @@ As part of PIDP's broader mission, there was a pressing need to reevaluate its r
 
 Our efforts culminated in a presentation of our findings during the standing committee meeting held in December following the Pacific Island Conference of Leaders.
 
+[Read more about the conference](https://pidp.eastwestcenter.org/2021/06/01/pacific-islands-conference-of-leaders-to-meet-virtually-june-1-2/)
+
+<img class="img-fluid" src="../img/received_1057752814768028.jpeg">
+
 ## Role and Responsibilities:
 
 In this project, I played a central role as a member of the team responsible for reviewing PIDP's legislative and policy framework. My responsibilities included conducting extensive research into historical records, legislation, policies, and procedures spanning several decades. I collaborated closely with colleagues to analyze the evolution of PIDP's role and identify the key regional issues that had persisted over the years. Additionally, I was involved in assessing the effectiveness of past recommendations and their impact on addressing these issues.
