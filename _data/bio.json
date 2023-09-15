@@ -7,7 +7,7 @@
     "phone": "000-000-0000",
     "website": "https://TaitusiVadei.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96848", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tvadei", "url": "http://github.com/tvadei" },
       { "network": "linkedin", "username": "Taitusi Vadei", "url": "http://linkedin.com/in/taitusi-vadei" }
@@ -42,7 +42,7 @@
   "volunteer": [
     {
       "organization": "Pacific Islands Development Program",
-      "website": "hhttps://pidp.eastwestcenter.org",
+      "website": "https://pidp.eastwestcenter.org",
       "position": "Student Intern",
       "startDate": "2022-05-23",
       "endDate": "2022-09-16",
