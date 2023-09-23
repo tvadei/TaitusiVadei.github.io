@@ -12,6 +12,8 @@ labels:
 ---
 
  ## Gold Standard
+
+
 When I began taking coding courses, I was solely focused on just getting the code to work. As long as there were no major errors and I got my desired output, I would submit my assignment. This was forgiven in my first two years of programming in high school CS courses but as I stepped into university, I was shocked when chunks of points were repeatedly deducted for my coding assignments. I checked in the feedback section of my moodle and saw the same line of message that while the code is functional, it does not follow coding standards and conventions.
 
 I was puzzled. I wondered “Why should I care about rules and guidelines if the code runs? Isn’t that the objective?”. Well, to be honest, I was lazy. As the semester progressed and we did more group work, I could see how neglecting coding standards made my code difficult to read and understand to other students that did follow. It hindered collaboration efforts and development of the projects. Further to that, I could see a decline in code quality as I saw more bugs and errors that I had to fix during run time.
