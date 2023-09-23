@@ -11,8 +11,7 @@ labels:
   - Code Quality
 ---
 
- ## Gold Standard
-
+## Gold Standard
 
 When I began taking coding courses, I was solely focused on just getting the code to work. As long as there were no major errors and I got my desired output, I would submit my assignment. This was forgiven in my first two years of programming in high school CS courses but as I stepped into university, I was shocked when chunks of points were repeatedly deducted for my coding assignments. I checked in the feedback section of my moodle and saw the same line of message that while the code is functional, it does not follow coding standards and conventions.
 
