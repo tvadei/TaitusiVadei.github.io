@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Taitusi Vadei",
+    "label": "Student",
+    "picture": "https://github.com/tvadei.png",
+    "email": "tvadei@hawaii.edu",
+    "phone": "000-000-0000",
+    "website": "https://TaitusiVadei.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96848", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tvadei", "url": "http://github.com/tvadei" },
+      { "network": "linkedin", "username": "Taitusi Vadei", "url": "http://linkedin.com/in/taitusi-vadei" }
+    ]
+  },
+  "interests": [
+    { "name": "Educational Technology" },
+    { "name": "Learning Management Systems" },
+    { "name": "Virtual Learning Environments" },
+    { "name": "Mobile Learning Applications" },
+    { "name": "Data Analytics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "Present"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Pacific Islands Development Program",
+      "website": "https://pidp.eastwestcenter.org",
+      "position": "Student Intern",
+      "startDate": "2022-05-23",
+      "endDate": "2022-09-16",
+      "summary": "Contributed to research, data analysis, and project coordination efforts that directly impact the social, economic, and environmental well-being of Pacific Island communities.",
+      "highlights": [
+        "Collaborating with local communities and organizations to understand their needs and perspectives",
+        "Assisting in the planning, execution, and evaluation of projects and initiatives aimed at promoting sustainable development in the Pacific Islands"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "United States South Pacific Scholarship Program",
+      "date": "2021-Present",
+      "awarder": "East West Center",
+      "summary": "The USSP offers fully funded scholarships to students from Pacific Island nations to pursue undergraduate or graduate (master's or doctoral) degree programs at universities and colleges in the United States."
+    },
+    {
+      "title": "Pacific Academic Excellence Award",
+      "date": "2020-2021",
+      "awarder": "University of the South Pacific",
+      "summary": "USP provides full funded scholarships for Bachelor Studies at their Fiji Laucala campus to students who achieved the highest GPA in Foundation studies across all of their campuses in the region."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
