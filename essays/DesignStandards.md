@@ -26,7 +26,7 @@ Wondering what is its relationship to an object oriented environment? Design pat
 ## **Application of Design Patterns**
 Design patterns are broadly categorized into three main categories based on how they address different types of challenges in software development.To gain clarity, I will illustrate patterns with examples that I recall using in my Introduction to Computer Science II course where we had to use OOP methods to simulate a polynesian navigator adventure video game.
 
-![Source: Jobsity Blog](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jobsity.com%2Fblog%2Fdesign-pattern-software&psig=AOvVaw0giW4ugv0Ok9BnLDGRxPWj&ust=1701505091029000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiKv8bm7YIDFQAAAAAdAAAAABAR)
+![Source: Jobsity Blog](../img/DesignPatterns.png)
 
 ### *Category 1 - Creational Patterns*
 These patterns are all about class instantiation or object creation. They help in making a system independent of how its objects are created, composed, and represented. Basically, they offer a method to make new objects without showing the detailed steps of how these objects are made, instead of making objects in the usual way with a 'new' operator. This gives the program more flexibility in deciding which objects need to be created for a given use case.
