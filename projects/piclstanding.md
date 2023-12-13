@@ -22,7 +22,7 @@ Our efforts culminated in a presentation of our findings during the standing com
 
 [Read more about the conference](https://pidp.eastwestcenter.org/2021/06/01/pacific-islands-conference-of-leaders-to-meet-virtually-june-1-2/)
 
-<img class="img-fluid" src="../img/received_1057752814768028.jpeg">
+<img class="img-fluid" src="../img/PICLStanding/PICLStandingCommittee.jpeg">
 
 ## Role and Responsibilities:
 

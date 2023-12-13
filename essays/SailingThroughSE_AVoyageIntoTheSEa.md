@@ -19,7 +19,7 @@ Embarking on this interesting course of software engineering has been both a cha
 ## **Open Source Software Development**
 
 <figure>
-  <img width="500px" height="500px" src="../img/OpenSource.jpeg" alt="People Sitting At Desks Looking At Computers">
+  <img class="img-fluid" src="../img/Essay/OpenSource.jpeg" alt="People Sitting At Desks Looking At Computers">
   <figcaption>Tijana. (2023, December). Adobe Stock. https://stock.adobe.com/images/serious-business-people-sitting-in-a-row-and-working-on-computers-in-open-plan-office-five-colleagues-typing-business-report-on-a-laptop-computers-while-sitting-at-same-desk-in-a-modern-office/488974717 </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Beyond our web application project we did for this class, the primary benefit of
 ## **Configuration Management**
 
 <figure>
-  <img width="500px" height="500px" src="../img/configuration_management.jpeg">
+  <img class="img-fluid" src="../img/Essay/configuration_management.jpeg">
   <figcaption>Faddom. (2023, December). IT Configuration Management: Policy, Process, and Planning. https://faddom.com/it-configuration-management-policy-process/</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ The principles of Configuration Management translate well in the educational tec
 ## **User Interface Frameworks**
 
 <figure>
-  <img width="500px" height="500px" src="../img/UserInterfaceFramework.png">
+  <img class="img-fluid" src="../img/Essay/UserInterfaceFramework.png">
   <figcaption>Sidra. (2023, August 4). Choosing The Right UI Framework For UI Design and Development. Sencha. Retrieved from https://www.sencha.com/blog/choosing-the-right-ui-framework-for-ui-design-and-development/</figcaption>
 </figure>
 
