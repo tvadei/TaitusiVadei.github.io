@@ -4,10 +4,9 @@
     "label": "Student",
     "picture": "https://github.com/tvadei.png",
     "email": "tvadei@hawaii.edu",
-    "phone": "000-000-0000",
     "website": "https://TaitusiVadei.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96848", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1601 East West Road", "postalCode": "96848", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tvadei", "url": "http://github.com/tvadei" },
       { "network": "linkedin", "username": "Taitusi Vadei", "url": "http://linkedin.com/in/taitusi-vadei" }
@@ -23,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript"]
+      "keywords": [ "C", "C++", "HTML", "CSS", "ReactJS", "Bootstrap", "Javascript", "Meteor", "MongoDB"]
     },
     {
       "name": "Toolsets/OS",
