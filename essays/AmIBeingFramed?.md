@@ -15,7 +15,18 @@ labels:
 
 If the code for the Workouts of the Day that we had done for this week could talk, I would bet they would continue to ask “Why am I being framed? I have not done anything wrong?!”. Well, in a sense, they are correct. With Bootstrap 5, at its core, offers a structured grid-like based system and it does not constrict anything like what a normal frame would do but it enhances our web development.
 
+<Figure>
+  <img src="../img/Essay/Bootstrap5.png" alt="Being Framed" class="img-fluid">
+  <figcaption>Retrieved from https://htmlburger.com/blog/bootstrap-5-overview/</figcaption>
+</Figure>
+
+
 ## Initial Hurdles
+
+<Figure>
+  <img src="../img/Essay/hurdle.png" alt="Being Framed" class="img-fluid">
+  <figcaption>Retrieved from https://creazilla.com/nodes/63806-hurdle-runner-clipart</figcaption>
+</Figure>
 
 When I started reading on **Bootstrap 5**, I was so overwhelmed when I read up on the vast documentation, although detailed, was daunting. The turning point however was when we had swiftly created the bootstrap navbar component which would have been more exhausting if I tweaked it with raw CSS instead. The satisfaction of creating the navbar with minimal effort was superior. The pieces started falling into place.
 

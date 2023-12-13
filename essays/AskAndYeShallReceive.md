@@ -16,6 +16,11 @@ Whether you are a beginner or an advanced learner of coding, you cannot always e
 
 I recall for one particular bug concerning pointers that made me turn up to office hours emotionally charged and handed over my laptop to the professor and just asked him to find the bug. He kindly swiveled the laptop back to me and told me to describe what the problem is. In my frustration, I repeated back to him what the compiler error was showing and the professor restated that I, again, needed to describe what the problem was. 
 
+<Figure>
+  <img src="../img/Essay/Frustrated.webp" alt="Being Framed" class="img-fluid">
+  <figcaption>Retrieved from https://waypointrecoverycenter.com/learning-deal-frustration-recovery/</figcaption>
+</Figure>
+
 Coming down from the rage "high", I realized that I was not being helpful with how I was asking for help. I did not provide a context of what my code was and what was it about pointers that I was finding difficulties with. The audacity for me to hold the expectation that my professor would suddenly know what the bug is was foolish of me and very lazy. 
 
 ## The Right Way of Asking for Help
@@ -61,5 +66,10 @@ This question lacks to show a specific coding problem or challenge that the aske
 
 
 ## Is there a perfect question?
+
+<Figure>
+  <img src="../img/Essay/AskingQuestions.jpeg" alt="Being Framed" class="img-fluid">
+  <figcaption>Retrieved from https://hatrabbits.com/en/asking-questions/</figcaption>
+</Figure>
 
 There is no perfect question but there are ways you can perfect it. Okay, I was trying to be philosophical there but in practicality, as you embark on asking questions on a forum like stack overflow, take time to craft your question. Do not just spontaneously garble your question on there (like I did to my professor, although thankfully he was kind enough to have guided me. Imagine the responses I would have gotten had I posted!). With quality questions breeds quality solutions that preserves quality time! A final advice is to listen to feedback as these serve as stepping stones to better-ing questions next time!
