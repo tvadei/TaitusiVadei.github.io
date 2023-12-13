@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PIDP.jpg
+image: img/ProjectThumbnails/PIDP.jpg
 title: "Pacific Island Conference of Leaders Standing Committe Meeting"
 date: 2021-12-01
 published: true
@@ -22,7 +22,7 @@ Our efforts culminated in a presentation of our findings during the standing com
 
 [Read more about the conference](https://pidp.eastwestcenter.org/2021/06/01/pacific-islands-conference-of-leaders-to-meet-virtually-june-1-2/)
 
-<img class="img-fluid" src="../img/PICLStanding/PICLStandingCommittee.jpeg">
+<img class="img-fluid" src="../img/PICLStanding/PICLStandingCommittee.jpeg" alt="PIDP students during the PICL Standing Committee">
 
 ## Role and Responsibilities:
 

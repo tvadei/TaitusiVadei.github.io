@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scholarship.jpg
+image: img/ProjectThumbnails/scholarship.jpg
 title: "Scholarship Assistance"
 date: 2023-01
 published: true
@@ -16,7 +16,7 @@ summary: "Provided scholarship resources for Fijian students and mentorship"
 
 During my holiday trip back home to Fiji last winter, I initiated an educational outreach project aimed at assisting and guiding high school students in their pursuit of scholarships and higher education opportunities. The project encompassed a comprehensive overview of scholarship applications, essay writing techniques, and interview preparation. Additionally, I shared insights into various scholarships available to Fijian students, highlighting the differences in application processes and requirements.
 
-<img class="img-fluid" src="../img/ScholarshipHelp/YatSenHighSchool.jpeg">
+<img class="img-fluid" src="../img/ScholarshipHelp/YatSenHighSchool.jpeg" alt="Photo of Yat Sen High School Students">
 
 ## My Role and Responsibilities
 
