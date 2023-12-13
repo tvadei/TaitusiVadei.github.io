@@ -31,11 +31,11 @@ We formed a team, Team Jackfruit, and created the website PonoHealth Providers. 
 * Developed custom TestCafe scripts that implemented automatic testing procedures for all pages of our website.
 
 ## Key Learning Experiences:
-+ Understand the basics of web page structure and design using HTML.
-+ Learn CSS for styling web pages and how to create responsive designs with Bootstrap.
-+ Learn how to use React to create interactive web pages.
-+ Learn how to use Javascript to implement dynamic features on web pages.
-+ Understand how to store, retrieve, and manipulate data in a database.
++ Understand how web pages are structures and the elements that make up a web page through the use of HTML.
++ Learn CSS for styling web pages to make them visually appealing, experimenting with colors, fonts and layouts. In addition, how to create responsive designs with Bootstrap.
++ Learn how to use React to create dynamic user interfaces by building reusable components and then learning how to manage state and props.
++ Learn how Javascript can be used to interact with and modify HTML and CSS on a web page, making the web page more dynamic and interactive.
++ Understand how to store, retrieve, and manipulate data in a database through the use of MongoDB.
 + Learn how to use TestCafe to implement automatic testing procedures for web pages.
 
 ## Glimpse of Website
