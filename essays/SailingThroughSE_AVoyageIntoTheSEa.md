@@ -12,8 +12,6 @@ labels:
 - Open Source Software Development
 ---
 
-# **Sailing Through Software Engineering: A voyage into the SEa**
-
 Embarking on this interesting course of software engineering has been both a challenging and enriching experience. As I reflect on my academic venture through this course, I am inspired to share the vast expanse of knowledge and skills that I have learned. This essay is a glimpse into my journey, an exploration of the key concepts, methodologies, and technologies that have shaped my understanding of software engineering. I will be using the closely connected relationship between software engineering and educational technology (as the fusion of these two fields are of high interest to me) to illustrate how these topics go beyond web development.
 
 ## **Open Source Software Development**
@@ -32,7 +30,7 @@ Beyond our web application project we did for this class, the primary benefit of
 ## **Configuration Management**
 
 <figure>
-  <img class="img-fluid" src="../img/Essay/configuration_management.jpeg">
+  <img class="img-fluid" src="../img/Essay/configuration_management.jpeg" alt="People working on computers">
   <figcaption>Faddom. (2023, December). IT Configuration Management: Policy, Process, and Planning. https://faddom.com/it-configuration-management-policy-process/</figcaption>
 </figure>
 
@@ -45,7 +43,7 @@ The principles of Configuration Management translate well in the educational tec
 ## **User Interface Frameworks**
 
 <figure>
-  <img class="img-fluid" src="../img/Essay/UserInterfaceFramework.png">
+  <img class="img-fluid" src="../img/Essay/UserInterfaceFramework.png" alt="User Interface Frameworks">
   <figcaption>Sidra. (2023, August 4). Choosing The Right UI Framework For UI Design and Development. Sencha. Retrieved from https://www.sencha.com/blog/choosing-the-right-ui-framework-for-ui-design-and-development/</figcaption>
 </figure>
 

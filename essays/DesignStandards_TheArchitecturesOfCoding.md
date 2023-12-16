@@ -12,7 +12,6 @@ labels:
 - Object Oriented Programming
 ---
 
-# **Design Standards: The Architectures of Coding**
 As a third-year computer science student, I've transitioned from having a crack at the basics of coding to tackling more nuanced and sophisticated concepts. Among these is the field of design patterns, initially mentioned in my earlier courses, has become a key in offering numerous advantages towards my coding and software development journey. This essay is a reflection of my journey through the interesting world of design patterns. It's an exploration into what these patterns are and how they work, remodeling what was shown in my course presentations and textbooks, in an attempt to break down these concepts that often intimidate the newbies into coding. I'll also dive into my personal experiences, sharing how I've integrated design patterns into my coding assignments, and the impact this has had on my approach to writing and understanding code.
 
 ## **Understanding Design Patterns**

@@ -11,8 +11,6 @@ labels:
   - HTML and CSS
 ---
 
-# I’m being Framed!
-
 If the code for the Workouts of the Day that we had done for this week could talk, I would bet they would continue to ask “Why am I being framed? I have not done anything wrong?!”. Well, in a sense, they are correct. With Bootstrap 5, at its core, offers a structured grid-like based system and it does not constrict anything like what a normal frame would do but it enhances our web development.
 
 <Figure>
