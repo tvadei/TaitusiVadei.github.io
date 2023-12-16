@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Ask and ye shall receive | Taitusi Vadei | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/tvadei.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Taitusi Vadei | Professional Portfolio">
+    <meta property="og:url" content="https://tvadei.github.io/essays/AskAndYeShallReceive.html">
+    <meta property="og:title" content="Ask and ye shall receive | Taitusi Vadei | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/tvadei.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Ask and ye shall receive | Taitusi Vadei | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Taitusi Vadei</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Ask and ye shall receive</h1>
+  <span class="date">08 Sep 2023</span>
+  <hr>
+  <h2 id="oh-no-a-bug">Oh No, A Bug!</h2>
+
+<p>Whether you are a beginner or an advanced learner of coding, you cannot always evade the plaguing of bugs in your code that causes a massive ordeal of revising your code, reading line by line, trialing and error guesses of where or what the bug could be until exhaustion. It is incredibly time consuming, drains your energy and sucks the hopes of building your coding project.</p>
+
+<p>I recall for one particular bug concerning pointers that made me turn up to office hours emotionally charged and handed over my laptop to the professor and just asked him to find the bug. He kindly swiveled the laptop back to me and told me to describe what the problem is. In my frustration, I repeated back to him what the compiler error was showing and the professor restated that I, again, needed to describe what the problem was.</p>
+
+<figure>
+  <img src="../img/Essay/Frustrated.webp" alt="Being Framed" class="img-fluid" />
+  <figcaption>Retrieved from https://waypointrecoverycenter.com/learning-deal-frustration-recovery/</figcaption>
+</figure>
+
+<p>Coming down from the rage “high”, I realized that I was not being helpful with how I was asking for help. I did not provide a context of what my code was and what was it about pointers that I was finding difficulties with. The audacity for me to hold the expectation that my professor would suddenly know what the bug is was foolish of me and very lazy.</p>
+
+<h2 id="the-right-way-of-asking-for-help">The Right Way of Asking for Help</h2>
+
+<p>Knowing how to frame your question to ask for help is a skill that helps mitigate further frustration already mounting from when the bug appeared. If you are inadequate in your approach like I did, then be prepared to have an inadequate reply. Learn how to articulate your problem in a clear and concise way so that people know how to structurally solve it.</p>
+
+<p>Later that afternoon, my professor sent me a message on discord to a link to the Stack Overflow forum where it cleared things up for me greatly in terms of how pointers behave and illustrated how I should have asked my question.</p>
+
+<p>Here’s the <a href="https://stackoverflow.com/questions/55928816/c-iterator-range-using-pointers-to-an-array">QUESTION</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Q: C++ Iterator range using pointers to an array
+
+I do not want to pass the size of the array as an index parameter.
+
+For my merge_sort, I want to optimize my parameters using the iterator range concept. I can't seem to figure out how to deference the iterator range and access my array. I can deference to access the indices like low and high in recursive_merge_sort, but there does not seem to be an intuitive way to access the array itself. I've been using this great guide on C++ Pointers and Arrays as a starting point.
+
+My Merge Sort C++11 C++17 question brought this concept to light and I like the idea of using iterator ranges to reduce the number of parameters for my sort.
+</code></pre></div></div>
+<p>In addition to the question, the person provided their code fragment with comments showing possible indications of where the error could be occurring.</p>
+
+<p>Here the person clearly states what their objectives are and where they are finding problems. The objective is to optimize parameters using iterators and the problem is dereferencing the iterator. There is a mention that the person has consulted textbooks and references a previous related question posted to the same that has been of help in trying to tackle the problem, demonstrating initiative from the asker that they have made an effort.</p>
+
+<p>The responses to the above questions explained the relationship between pointers, iterators and c++ arrays and provided code examples to display the usages of pointers like iterators like the begin/end iterators. Some responses cautioned the method of passing in an array by pointer and gave potential complications down the road from said method.</p>
+
+<p>Observing how well the question was posed and how well structured and balanced the responses was, it is then advantageous for the asker as the bug in their code could become more obvious.</p>
+
+<h2 id="the-huh-wat-way-of-asking-for-help">The Huh Wat Way of Asking for Help.</h2>
+
+<p>Hmmm, my embarassing story of my office hour situation should serve as a model of what not to ask. Yet, to solidify and contrast, let us look at this <a href="https://stackoverflow.com/questions/31768272/what-is-the-point-of-using-references-and-pointers-in-c">QUESTION</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Q: What is the point of using references and pointers in C++?
+I read this similar question but after a few weeks of studying C++ one thing I am curious about is: Why use pointers or references in C++?
+
+Not even why use one over the other, but just why not use the original value?
+
+By default things are passed by value in C++ wouldn't a lot of the confusion and accidental side effects would be removed if the original value were always passed?
+
+Is it simply so that a smaller value can be passed on the stack?
+</code></pre></div></div>
+<p>This question lacks to show a specific coding problem or challenge that the asker is facing. Hence there is no definitive answer nor a specific solution that can be afforded. While, it asks on the topic of pointers and references, it is too broad and that poses a problem because it leaves a lot for interpretation, gathering varied responses that leads the asker astray. Also, as the question is broad, it would be annoying for responders to have to write lengthy answers to cover all the possible angles of the question. These sentiments are also shared in the replies to the question.</p>
+
+<h2 id="is-there-a-perfect-question">Is there a perfect question?</h2>
+
+<figure>
+  <img src="../img/Essay/AskingQuestions.jpeg" alt="Being Framed" class="img-fluid" />
+  <figcaption>Retrieved from https://hatrabbits.com/en/asking-questions/</figcaption>
+</figure>
+
+<p>There is no perfect question but there are ways you can perfect it. Okay, I was trying to be philosophical there but in practicality, as you embark on asking questions on a forum like stack overflow, take time to craft your question. Do not just spontaneously garble your question on there (like I did to my professor, although thankfully he was kind enough to have guided me. Imagine the responses I would have gotten had I posted!). With quality questions breeds quality solutions that preserves quality time! A final advice is to listen to feedback as these serve as stepping stones to better-ing questions next time!</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
